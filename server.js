@@ -779,11 +779,20 @@ app.get("/", (request, response) => {
 
 app.get("/api/:animalName", (request, response) => {
     const animalsName = request.params.animalName.toLowerCase();
+    const animalArray = Object.keys(farters);
+    const randomNumber = Math.random();
+    const animalIndex = Math.floor(randomNumber * animalArray.length);
+
+    const randomKey = animalArray[animalIndex];
+    // This will course this will return the value of the randomKey
+    // instead of a fresh random value
+    // https://stackoverflow.com/a/37401010
+    const randomValue = farters[randomKey];
 
     if (farters[animalsName]) {
         response.json(farters[animalsName]);
     } else {
-        response.json(farters["unicorns"]);
+        response.json(farters[randomKey]);
     }
 
 });
@@ -801,8 +810,6 @@ app.get("/api/random"), (request, response) => {
 
     response.json(randomValue)
 }
-
-
 
 app.listen(process.env.PORT || PORT, () => {
     console.log(`server is running on port ${PORT}`);
