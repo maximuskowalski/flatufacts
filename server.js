@@ -130,7 +130,7 @@ const farters = {
         'notes': "That's what they do best!",
         'research': "",
         'fartoligist': "@FattebertJ",
-        'image:': 'https://upload.wikimedia.org/wikipedia/commons/e/e0/Python_bivittatus_%D1%82%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Equus_quagga_burchellii_-_Etosha%2C_2014.jpg/1920px-Equus_quagga_burchellii_-_Etosha%2C_2014.jpg'
     },
     'burmese python': {
         'animalName': "Burmese python",
@@ -139,7 +139,7 @@ const farters = {
         'notes': "Often silent but deadly. Thick, and...meaty? If it were a color it would be brownish-yellow.",
         'research': "anecdotal & personal observations",
         'fartoligist': "@SssnakeySci",
-        'image:': ''
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/e/e0/Python_bivittatus_%D1%82%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B8%D1%82%D0%BE%D0%BD.jpg'
     },
     'camel': {
         'animalName': "Camel",
