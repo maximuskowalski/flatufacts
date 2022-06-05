@@ -698,7 +698,7 @@ app.get("/api/:animal", (request, response) => {
     if (farters[animalsName]) {
         response.json(farters[animalsName]);
     } else {
-        response.json(farters["random"]);
+        response.json(farters["unicorns"]);
     }
 });
 
