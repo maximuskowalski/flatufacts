@@ -123,7 +123,7 @@ const farters = {
         'fartoligist': "@_glitterworm",
         'image:': 'https://upload.wikimedia.org/wikipedia/commons/f/f0/Phyllodoce_rosea.jpg'
     },
-    'burchells zebra ': {
+    'burchells zebra': {
         'animalName': "Burchell's zebra",
         'scientificName': "Equus quagga burchellii",
         'doesItFart': "Yes",
@@ -787,6 +787,22 @@ app.get("/api/:animalName", (request, response) => {
     }
 
 });
+
+app.get("/api/random"), (request, response) => {
+    const animalArray = Object.keys(farters);
+    const randomNumber = Math.random();
+    const animalIndex = Math.floor(randomNumber * animalArray.length);
+
+    const randomKey = animalArray[animalIndex];
+    // This will course this will return the value of the randomKey
+    // instead of a fresh random value
+    // https://stackoverflow.com/a/37401010
+    const randomValue = farters[randomKey];
+
+    response.json(randomValue)
+}
+
+
 
 app.listen(process.env.PORT || PORT, () => {
     console.log(`server is running on port ${PORT}`);
