@@ -91,7 +91,7 @@ const farters = {
         'animalName': "Black Spinytail Iguana",
         'scientificName': "Ctenosaura similis",
         'doesItFart': "Yes",
-        'notes': "Seems to occur more frequently when less insect/animal protein is consumed and higher quantities of fruit/fiber are eaten",
+        'notes': "Seems to occur more frequently when less insect or animal protein is consumed and higher quantities of fruit and fiber are eaten",
         'research': "personal observations",
         'fartoligist': "@squamatasci",
         'image:': 'https://upload.wikimedia.org/wikipedia/commons/1/19/CtenosauraSimilis.jpg'
