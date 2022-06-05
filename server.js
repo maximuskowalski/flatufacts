@@ -692,7 +692,7 @@ app.get("/", (request, response) => {
     response.sendFile(__dirname + "/index.html");
 });
 
-app.get("/api/:animal", (request, response) => {
+app.get("/api/:animalName", (request, response) => {
     const animalsName = request.params.animalName.toLowerCase();
 
     if (farters[animalsName]) {
