@@ -13,13 +13,13 @@ const farters = {
         'notes': "Any self respecting canine does",
         'research': "",
         'fartoligist': "@DaniRabaiotti",
-        'image': 'https://en.wikipedia.org/wiki/African_wild_dog#/media/File:African_wild_dog_(Lycaon_pictus_pictus).jpg'
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/African_wild_dog_%28Lycaon_pictus_pictus%29.jpg/1920px-African_wild_dog_%28Lycaon_pictus_pictus%29.jpg'
     },
     'aliens': {
         'animalName': "Aliens",
         'scientificName': "",
         'doesItFart': "Maybe",
-        'notes': "",
+        'notes': "Great Scott!",
         'research': "",
         'fartoligist': "@chrislintott",
         'image': 'https://static.wikia.nocookie.net/aliens/images/7/74/Kruge.jpg'
@@ -31,7 +31,7 @@ const farters = {
         'notes': "Elbroch (2003) describes badger scat as rancorous (can confirm); assume fart",
         'research': "",
         'fartoligist': "@biologistimo",
-        'image': 'https://en.wikipedia.org/wiki/American_badger#/media/File:AmericanBadger.JPG'
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/AmericanBadger.JPG/1920px-AmericanBadger.JPG'
     },
     'ammonite': {
         'animalName': "Ammonite",
@@ -40,7 +40,7 @@ const farters = {
         'notes': "molluscs don't fart- would like to question inking as farting in extant cephs",
         'research': "",
         'fartoligist': "@NadWGab",
-        'image': 'https://en.wikipedia.org/wiki/Ammonoidea#/media/File:Pleuroceras_solare,_Little_Switzerland,_Bavaria,_Germany.jpg'
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pleuroceras_solare%2C_Little_Switzerland%2C_Bavaria%2C_Germany.jpg/1280px-Pleuroceras_solare%2C_Little_Switzerland%2C_Bavaria%2C_Germany.jpg'
     },
     'arachnids': {
         'animalName': "Arachnids",
@@ -49,7 +49,7 @@ const farters = {
         'notes': "Assumed as yes, but never really been proven",
         'research': "",
         'fartoligist': "@SS_Henriques",
-        'image': 'https://en.wikipedia.org/wiki/Arachnid#/media/File:Arachnid_collage.jpg'
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/2/21/Arachnid_collage.jpg'
     },
     'baboons': {
         'animalName': "Baboons",
@@ -58,7 +58,7 @@ const farters = {
         'notes': "",
         'research': "",
         'fartoligist': "@Cassie_Raby",
-        'image': 'https://en.wikipedia.org/wiki/Baboon#/media/File:Olive_baboon_Ngorongoro.jpg'
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Olive_baboon_Ngorongoro.jpg/1280px-Olive_baboon_Ngorongoro.jpg'
     },
     'bats': {
         'animalName': "Bats",
@@ -67,7 +67,7 @@ const farters = {
         'notes': "",
         'research': "",
         'fartoligist': "@hammerheadbat",
-        'image': 'https://en.wikipedia.org/wiki/Bat#/media/File:Big-eared-townsend-fledermaus.jpg'
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/7/77/Big-eared-townsend-fledermaus.jpg'
     },
     'bearded dragon': {
         'animalName': "Bearded Dragon",
@@ -85,7 +85,7 @@ const farters = {
         'notes': "But they could if they wanted to",
         'research': "http://www.popsci.com/environment/article/2009-05/it-true-birds-cant-fart",
         'fartoligist': "@thelabandfield",
-        'image': 'https://en.wikipedia.org/wiki/White-tailed_tropicbird#/media/File:White-tailed_tropicbird.jpg'
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/White-tailed_tropicbird.jpg/220px-White-tailed_tropicbird.jpg'
     },
     'black spinytail iguana': {
         'animalName': "Black Spinytail Iguana",
@@ -679,7 +679,7 @@ const farters = {
         'notes': "But they can puke (technically) - see next sheet",
         'research': "",
         'fartoligist': "@SS_Henriques",
-        'image:': 'https://en.wikipedia.org/wiki/Soft-shell_clam#/media/File:Ecomare_-_strandgaper_(4792-mya-strandgaper-mok-ogb).jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ecomare_-_strandgaper_%284792-mya-strandgaper-mok-ogb%29.jpg/1920px-Ecomare_-_strandgaper_%284792-mya-strandgaper-mok-ogb%29.jpg'
     },
     'spiders': {
         'animalName': "Spiders",
@@ -688,7 +688,7 @@ const farters = {
         'notes': "Broadly assumed as yes, but never really been proven.",
         'research': "",
         'fartoligist': "",
-        'image:': 'https://en.wikipedia.org/wiki/Spider#/media/File:Spiders_Diversity.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/f/f9/Spiders_Diversity.jpg'
     },
     'spotted hyenas': {
         'animalName': "Spotted hyenas",
@@ -697,7 +697,7 @@ const farters = {
         'notes': "Especially bad after eating camel intestines ",
         'research': "",
         'fartoligist': "@ArjDheer",
-        'image:': 'https://en.wikipedia.org/wiki/Spotted_hyena#/media/File:Spotted_hyena_in_Madikwe_Game_Reserve.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Spotted_hyena_in_Madikwe_Game_Reserve.jpg/1280px-Spotted_hyena_in_Madikwe_Game_Reserve.jpg'
     },
     'squid, octopus, cuttlefish': {
         'animalName': "Squid, octopus, cuttlefish",
@@ -706,7 +706,7 @@ const farters = {
         'notes': "If we count air coming out of the siphon as farting, yes",
         'research': "",
         'fartoligist': "@sarahmackattack",
-        'image:': 'https://en.wikipedia.org/wiki/Octopus#/media/File:Octopus2.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/1920px-Octopus2.jpg'
     },
     'syrian hamster': {
         'animalName': "Syrian hamster",
@@ -715,7 +715,7 @@ const farters = {
         'notes': "probably; see rats, plus anecdata",
         'research': "",
         'fartoligist': "@BeesAndBaking",
-        'image:': 'https://en.wikipedia.org/wiki/Golden_hamster#/media/File:Golden_hamster_front_1.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Golden_hamster_front_1.jpg/1920px-Golden_hamster_front_1.jpg'
     },
     'tapirs': {
         'animalName': "Tapirs",
@@ -724,7 +724,7 @@ const farters = {
         'notes': "In great amplitude",
         'research': "",
         'fartoligist': "",
-        'image:': 'https://en.wikipedia.org/wiki/Tapir#/media/File:Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg/1920px-Schabrackentapir_Tapirus_indicus_Tiergarten-Nuernberg-1.jpg'
     },
     'termites': {
         'animalName': "Termites",
@@ -733,7 +733,7 @@ const farters = {
         'notes': "A lot--may be a significant contributor to global climate change",
         'research': "http://science.sciencemag.org/content/218/4572/563",
         'fartoligist': "@HereBeSpiders11",
-        'image:': 'https://en.wikipedia.org/wiki/Termite#/media/File:Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg/800px-Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg'
     },
     'tortoise': {
         'animalName': "Tortoise",
@@ -742,7 +742,7 @@ const farters = {
         'notes': "",
         'research': "",
         'fartoligist': "@mbystoma",
-        'image:': 'https://en.wikipedia.org/wiki/Tortoise#/media/File:A._gigantea_Aldabra_Giant_Tortoise.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/A._gigantea_Aldabra_Giant_Tortoise.jpg/1920px-A._gigantea_Aldabra_Giant_Tortoise.jpg'
     },
     'unicorns': {
         'animalName': "Unicorns",
@@ -751,7 +751,7 @@ const farters = {
         'notes': "it's glitter and rainbows soft serve",
         'research': "",
         'fartoligist': "@NadWGab",
-        'image:': 'https://en.wikipedia.org/wiki/Unicorn#/media/File:DomenichinounicornPalFarnese.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/DomenichinounicornPalFarnese.jpg/1920px-DomenichinounicornPalFarnese.jpg'
     },
     'wombat': {
         'animalName': "Wombat",
@@ -760,7 +760,7 @@ const farters = {
         'notes': "",
         'research': "https://www.youtube.com/watch?v=VHy2yAuZzds",
         'fartoligist': "@ivandaum",
-        'image:': 'https://en.wikipedia.org/wiki/Wombat#/media/File:Vombatus_ursinus_-Maria_Island_National_Park.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg'
     },
     'woodlice': {
         'animalName': "Woodlice",
