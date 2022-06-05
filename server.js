@@ -94,7 +94,7 @@ const farters = {
         'notes': "Seems to occur more frequently when less insect/animal protein is consumed and higher quantities of fruit/fiber are eaten",
         'research': "personal observations",
         'fartoligist': "@squamatasci",
-        'image:': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CtenosauraSimilis.jpg/1280px-CtenosauraSimilis.jpg'
+        'image:': 'https://upload.wikimedia.org/wikipedia/commons/1/19/CtenosauraSimilis.jpg'
     },
     'blue mussels': {
         'animalName': "Blue mussels",
