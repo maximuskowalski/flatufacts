@@ -693,13 +693,14 @@ app.get("/", (request, response) => {
 });
 
 app.get("/api/:animal", (request, response) => {
-    const animalsName = request.params.animalName.toLocaleLowerCase();
+    const animalsName = request.params.animalName.toLowerCase();
 
     if (farters[animalsName]) {
         response.json(farters[animalsName]);
     } else {
         response.json(farters["unicorns"]);
     }
+
 });
 
 app.listen(process.env.PORT || PORT, () => {
