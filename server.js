@@ -76,7 +76,7 @@ const farters = {
         'notes': "",
         'research': "",
         'fartoligist': "@lizardschwartz",
-        'image': 'https://en.wikipedia.org/wiki/Pogona#/media/File:Pogona_vitticeps02.JPG'
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Pogona_vitticeps02.JPG/1920px-Pogona_vitticeps02.JPG'
     },
     'birds': {
         'animalName': "Birds",
@@ -206,7 +206,7 @@ const farters = {
     },
     'domestic cat': {
         'animalName': "Domestic cat",
-        'scientificName': "Felis catus ",
+        'scientificName': "Felis catus",
         'doesItFart': "Yes",
         'notes': "Seems to worsen in vicinity of human face. Silent but deadly",
         'research': "",
